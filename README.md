@@ -27,7 +27,7 @@ Admin module for MEAN applications to manage:
 
 In order to deploy `mean-admin` to Heroku or otherwise, add the following line to `package.json` of the mean app:
 
-    "mean-admin": "linnovate/mean-admin",
+    "mean-admin": "nskpaun/mean-admin",
 
 _Note: the `mean-admin` pubilshed on npm does not work with meanio. The line above will pull the module directly from GitHub._
 
